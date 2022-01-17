@@ -171,6 +171,7 @@ const Visualizer: React.FC = () => {
 						}}></div>
 				))}
 			</div>
+
 			<div className='button-container'>
 				<button onClick={() => resetArray()}>NEW ARRAY</button>
 				<button onClick={() => mergeSort(array)}>MERGE SORT</button>
