@@ -29,6 +29,7 @@
 	width: 90%;
 	display: flex;
 	justify-content: space-around;
+	background-color: rgb(162, 223, 247);
 }
 button {
 	border: none;
