@@ -6,4 +6,7 @@ about typescript.
 
 # The algorithms Visualized
 
-Upto this point, the algorithm only visulizes merge sort
+The algorithms visualized are merger sort, quick sort, heap sort and bubble sort.
+Seeing the visual representation of these algorithms is just amazing.
+You can see the live demo here: https://dancanmilgo73.github.io/sorting-algorithm-visualizer/
+Enjoy!!
